@@ -1,0 +1,26 @@
+{
+  "name": "dev-portolio",
+  "version": "1.0.0",
+  "description": "Developer website portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImraanMeyer/dev-portfolio.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "create-react-app",
+    "javascript",
+    "sass"
+  ],
+  "author": "ImraanMeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImraanMeyer/dev-portfolio/issues"
+  },
+  "homepage": "https://github.com/ImraanMeyer/dev-portfolio#readme"
+}
