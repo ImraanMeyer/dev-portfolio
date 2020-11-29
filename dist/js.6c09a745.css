@@ -1,0 +1,20 @@
+body {
+  background: red;
+}
+
+section {
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+  margin: 0 2em;
+}
+.nav-block {
+  background-color: aquamarine;
+  height: 10vh;
+}
+
+/*# sourceMappingURL=/js.6c09a745.css.map */
